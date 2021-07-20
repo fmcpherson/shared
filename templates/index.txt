@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>Welcome To My Shared Code Site</title>
+		
+	</head>
+	<body>
+	   <h1>Welcome To My Shared Code Site</h1>
+		<p>The purpose of this site is to host files shared across multiple projects. I set this up as a test
+		of the Digital Ocean App Platform free static sites option.</p>
+	</body>
+</html>
