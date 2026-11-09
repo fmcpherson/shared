@@ -1,3 +1,9 @@
+## Table Of Contents
+
+- [January](https://shared.frankmcpherson.net/markdown/Daynotes.md#january-2026)
+- [February](https://shared.frankmcpherson.net/markdown/Daynotes.md#february-2026)
+- [March](https://shared.frankmcpherson.net/markdown/Daynotes.md#march-2026)
+
 ## January 2026
 
 ### January 1
